@@ -1,0 +1,37 @@
+.topnav {
+   
+    padding: 19px 33px;
+    gap: 102px;
+    background-color: rgb(7, 3, 60);
+    color: #fcfeff;
+    width: 366%;
+    font-size: x-large;
+}
+.content-bar {
+   
+    width: 385%;
+}
+
+.cont {
+   
+    font-size: 2.5rem;
+  
+}
+.btn{
+    margin-left: 29em;
+}
+.map-area{
+    width:385% ;
+}
+.portfolio-sec {
+  
+    width: 385%;
+}
+.about-section {
+
+    width: 385%;
+}
+.copy-rt {
+    
+    width: 380%;
+}
